@@ -3,7 +3,8 @@ My name is Nico and I am ab aspiring Software Developer with a weakness for Mach
 
 I am currently working at Mercedes Benz AG in Berlin, Germany as a Neuronal Network engineer. Furthermore I'm still studying Business Computing. In 2022 I am going to start my graduate programm Computer Science.
 
-![26256813-der-mercedes-stern-in-bunt-OPee](https://user-images.githubusercontent.com/87664933/126202967-86689c7d-f4f8-44b6-951e-63e517f7b448.jpg)
+![image](https://user-images.githubusercontent.com/87664933/126203261-0350f8a7-4c4b-45d4-bbd5-f60ef286d30b.png)
+
 
 
 Here are some ideas to get you started:
