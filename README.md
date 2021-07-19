@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there! Welcome to my GitHub profile.
+My name is Nico and I am ab aspiring Software Developer with a weakness for Machine Learning.
 
-<!--
-**NicoSchultze/NicoSchultze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working at Mercedes Benz AG in Berlin, Germany as a Neuronal Network engineer. Furthermore I'm still studying Business Computing. In 2022 I am going to start my graduate programm Computer Science.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Few-Shot Learner (Meta Learning)
+- 🌱 I’m currently learning Machine Learning.
+- 👯 I’m looking to collaborate on anything new!
+- 🤔 I’m looking for help with Web Developement
+- 💬 Ask me about Neuronal Networks.
+- 📫 How to reach me: nico.schultze97@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My left foot is bigger than my right one..
