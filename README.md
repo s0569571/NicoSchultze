@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about Neuronal Networks.
 - 📫 How to reach me: nico.schultze97@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My left foot is bigger than my right one..
 
 Projects I plan to work on in the future:
 - My own Website
-- Own Machine Learning problems
-- Developing a small game#
+- Own Machine Learning Models
+- Developing a small game
 
 Languages I plan to improve on:
 - Python
