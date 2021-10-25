@@ -21,6 +21,5 @@ Projects I plan to work on in the future:
 
 Languages I plan to improve on:
 - Python
-- Java
 - JavaScript
-- Kotlin
+- C++
